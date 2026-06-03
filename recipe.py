@@ -1,3 +1,5 @@
+from ingredient import Ingredient
+
 class Recipe:
     def __init__(self, title: str, ingredients: list):
         self.title = title
