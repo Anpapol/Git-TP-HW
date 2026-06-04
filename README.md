@@ -8,6 +8,7 @@
 Код и тесты можно запустить с помощью клонирования репозитория, перейдя потом в саму папку проекта и установив все зависимости (pip install -r requirements.txt) и введя в коммандную строку py -m pytest
 
 Установка:
+
 git clone https://github.com/Anpapol/Git-TP-HW.git
 
 cd Git-TP-HW
